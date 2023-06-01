@@ -60,7 +60,7 @@ public class Program : MonoBehaviour
 
 ## Output:
 
-
+![output](ww.png)
 
 ## Result:
 Thus a 3D application for rotating the gaming objects in unity is developed successfully.
